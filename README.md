@@ -5,3 +5,5 @@ This is the first line in my file.
 A change while changes are staged.
 
 A third change
+
+Something else
