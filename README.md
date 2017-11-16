@@ -8,4 +8,4 @@ A third change
 
 Something else
 
-Don't delete me
+Don't delete me.
