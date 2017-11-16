@@ -7,3 +7,5 @@ A change while changes are staged.
 A third change
 
 Something else
+
+Don't delete me
