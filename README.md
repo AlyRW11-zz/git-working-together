@@ -16,4 +16,9 @@ New feature
 
 last change
 
+<<<<<<< HEAD
 don't get it
+=======
+not thank you
+ill stay
+>>>>>>> feature/page2
