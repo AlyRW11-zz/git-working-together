@@ -11,3 +11,5 @@ Something else
 Don't delete me.
 
 Updating our readme
+
+New feature
